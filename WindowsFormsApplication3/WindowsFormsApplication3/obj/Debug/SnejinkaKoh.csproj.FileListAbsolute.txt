@@ -1,0 +1,9 @@
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\SnejinkaKoh.csprojResolveAssemblyReference.cache
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\SnejinkaKoh.csproj.GenerateResource.Cache
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\fraktal\Fraktal\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
